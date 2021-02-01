@@ -1,5 +1,5 @@
 # Machine-Learning-with-C
-Machine Learning Matrix Project (Computer Architecture Fall 2020)
+[Machine Learning Matrix Project](https://github.com/JasonNDao/Machine-Learning-with-C/blob/main/hw2.pdf) (Computer Architecture Fall 2020)
 
 # Note:
 If on Windows, before cloning, run `git config --global core.autocrlf input` on git.
